@@ -8,7 +8,6 @@ import org.springframework.context.annotation.Bean;
 import ru.job4j.bmb.content.Content;
 import ru.job4j.bmb.services.TelegramBotService;
 
-
 @SpringBootApplication
 public class Main {
     public static void main(String[] args) {
